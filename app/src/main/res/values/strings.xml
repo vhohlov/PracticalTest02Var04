@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">"Server Side"</string>
+    <string name="server_port">"Port"</string>
+    <string name="start">"Start"</string>
+    <string name="stop">"Stop"</string>
+    <string name="client">"Client"</string>
+    <string name="address">"Adress"</string>
+    <string name="client_port">"Connection port"</string>
+    <string-array name="information_types">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>condition</item>
+        <item>pressure</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+
+</resources>
